@@ -8,4 +8,8 @@
 #### Jupyter Notebook,MySQL,Tableau
 
 
-#### This repository contains the data source (Dump20211027/Dump2021102),EDA file,tableau workbook (HR and RECRUITMENT DASHBOARD.twbx) and a pdf file (jobs analytics) in which complete project is explained.
+## This repository contains :- 
+#### Data source (Dump20211027/Dump2021102)
+#### EDA file
+#### Tableau workbook (HR and RECRUITMENT DASHBOARD.twbx) 
+#### Pdf file (jobs analytics) :- explanation of complete project
