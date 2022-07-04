@@ -10,6 +10,6 @@
 
 ## This repository contains :- 
 #### Data source (Dump20211027/Dump2021102)
-#### EDA file
+#### EDA file (Jobs Analytics.ipynb)
 #### Tableau workbook (HR and RECRUITMENT DASHBOARD.twbx) 
 #### Pdf file (jobs analytics) :- explanation of complete project
