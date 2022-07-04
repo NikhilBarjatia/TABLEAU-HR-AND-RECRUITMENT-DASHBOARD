@@ -16,4 +16,4 @@
 #### Data source (Dump20211027/Dump2021102)
 #### EDA file (Jobs Analytics.ipynb)
 #### Tableau workbook (HR and RECRUITMENT DASHBOARD.twbx) 
-#### Pdf file (jobs analytics) :- explanation of complete project
+#### Pdf file (jobs analytics)
